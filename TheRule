@@ -8,6 +8,7 @@ bypass-system = true
 ipv6 = true
 
 [Rule]
+RULE-SET,https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/lancidr.txt,DIRECT
 RULE-SET,https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/private.txt,DIRECT
 RULE-SET,https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/google.txt,PROXY
 RULE-SET,https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt,DIRECT
