@@ -1,0 +1,88 @@
+[
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "domain:download.visualstudio.mircosoft.com"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      "geosite:cn",
+      "domain:msftconnecttest.com",
+      "domain:vx.link",
+      "domain:ip.parts",
+      "domain:wenjuan.ltd",
+      "domain:weixinbridge.com",
+      "domain:detectportal.firefox.com",
+      "domain:open-douyin.com",
+      "domain:tiaozhanbei.net",
+      "domain:pixivision.net",
+      "domain:figma.com",
+      "geosite:microsoft@cn",
+      "geosite:bing",
+      "full:csgo.wmsj.cn",
+      "full:dl.steam.clngaa.com",
+      "full:dl.steam.ksyna.com",
+      "full:dota2.wmsj.cn",
+      "full:st.dl.bscstorage.net",
+      "full:st.dl.eccdnx.com",
+      "full:st.dl.pinyuncloud.com",
+      "full:steampipe.steamcontent.tnkjmec.com",
+      "full:steampowered.com.8686c.com",
+      "full:steamstatic.com.8686c.com",
+      "full:wmsjsteam.com",
+      "full:xz.pphimalayanrt.com",
+      "domain:cm.steampowered.com",
+      "domain:steamchina.com",
+      "domain:steamcontent.com",
+      "domain:steamserver.net",
+      "domain:steamusercontent.com",
+      "full:api.onedrive.com",
+      "full:skyapi.live.net",
+      "domain:1drv.com",
+      "domain:sharepoint.com",
+      "domain:sharepointonline.com",
+      "full:mobile.events.data.microsoft.com"
+    ]
+  },
+  {
+    "port": "443",
+    "network": "udp",
+    "outboundTag": "block"
+  },
+  {
+    "port": "",
+    "outboundTag": "block",
+    "domain": [
+      "geosite:category-ads-all"
+    ]
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "domain": [
+      "geosite:cn",
+      "geosite:geolocation-cn"
+    ]
+  },
+  {
+    "outboundTag": "direct",
+    "ip": [
+      "223.5.5.5/32",
+      "119.29.29.29/32",
+      "180.76.76.76/32",
+      "114.114.114.114/32",
+      "geoip:private",
+      "geoip:cn"
+    ]
+  },
+  {
+    "port": "0-65535",
+    "outboundTag": "proxy"
+  }
+]
