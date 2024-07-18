@@ -31,8 +31,9 @@ DOMAIN-SUFFIX,sharepoint.com,DIRECT
 DOMAIN-SUFFIX,sharepointonline.com,DIRECT
 DOMAIN-SUFFIX,1drv.com,DIRECT
 DOMAIN,api.onedrive.com,DIRECT
-DOMAIN,mobile.events.data.microsoft.com,DIRECT
+DOMAIN-SUFFIX,events.data.microsoft.com,DIRECT
 DOMAIN,skyapi.live.net,DIRECT
+DOMAIN,officeclient.microsoft.com,DIRECT
 # END ONEDRIVE DOMAIN NOT BE BLOCKED
 RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/SystemOTA/SystemOTA.list,DIRECT
 # RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AppleNews/AppleNews.list,PROXY
