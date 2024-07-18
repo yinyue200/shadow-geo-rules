@@ -48,7 +48,8 @@
       "domain:1drv.com",
       "domain:sharepoint.com",
       "domain:sharepointonline.com",
-      "full:mobile.events.data.microsoft.com"
+      "domain:events.data.microsoft.com",
+      "full:officeclient.microsoft.com"
     ]
   },
   {
