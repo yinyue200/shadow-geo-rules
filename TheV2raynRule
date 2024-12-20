@@ -50,7 +50,9 @@
       "domain:sharepointonline.com",
       "domain:events.data.microsoft.com",
       "full:officeclient.microsoft.com",
-      "domain:edu.cn"
+      "domain:edu.cn",
+      "domain:appleid.apple.com",
+      "domain:infoldgames.com"
     ]
   },
   {
