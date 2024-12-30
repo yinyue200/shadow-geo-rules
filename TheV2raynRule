@@ -1,18 +1,30 @@
 [
   {
-    "port": "",
-    "outboundTag": "proxy",
-    "ip": [],
-    "domain": [
-      "domain:download.visualstudio.mircosoft.com",
-      "domain:googleapis.com"
-    ]
+    "Port": "",
+    "OutboundTag": "block",
+    "Ip": [],
+    "Domain": [
+      "geosite:category-ads-all"
+    ],
+    "Process": [],
+    "Enabled": true,
+    "Remarks": "ads"
   },
   {
-    "port": "",
-    "outboundTag": "direct",
-    "ip": [],
-    "domain": [
+    "Port": "",
+    "OutboundTag": "proxy",
+    "Ip": [],
+    "Domain": [
+      "domain:download.visualstudio.mircosoft.com",
+      "domain:googleapis.com"
+    ],
+    "Enabled": true
+  },
+  {
+    "Port": "",
+    "OutboundTag": "direct",
+    "Ip": [],
+    "Domain": [
       "geosite:cn",
       "domain:msftconnecttest.com",
       "domain:vx.link",
@@ -50,33 +62,34 @@
       "domain:sharepointonline.com",
       "domain:events.data.microsoft.com",
       "full:officeclient.microsoft.com",
-      "domain:edu.cn",
-      "domain:appleid.apple.com",
-      "domain:infoldgames.com",
-      "domain:airbnb.com"
-    ]
+      "domain:edu.cn"
+    ],
+    "Enabled": true
   },
   {
-    "port": "",
-    "outboundTag": "direct",
-    "domain": [
+    "Port": "",
+    "OutboundTag": "direct",
+    "Domain": [
       "geosite:cn",
       "geosite:geolocation-cn"
-    ]
+    ],
+    "Enabled": true
   },
   {
-    "outboundTag": "direct",
-    "ip": [
+    "OutboundTag": "direct",
+    "Ip": [
       "223.5.5.5/32",
       "119.29.29.29/32",
       "180.76.76.76/32",
       "114.114.114.114/32",
       "geoip:private",
       "geoip:cn"
-    ]
+    ],
+    "Enabled": true
   },
   {
-    "port": "0-65535",
-    "outboundTag": "proxy"
+    "Port": "0-65535",
+    "OutboundTag": "proxy",
+    "Enabled": true
   }
 ]
