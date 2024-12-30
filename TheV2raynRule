@@ -7,7 +7,7 @@
       "geosite:category-ads-all"
     ],
     "Process": [],
-    "Enabled": true,
+    "Enabled": false,
     "Remarks": "ads"
   },
   {
