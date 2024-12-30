@@ -1,6 +1,17 @@
 [
   {
     "Port": "",
+    "OutboundTag": "block",
+    "Ip": [],
+    "Domain": [
+      "geosite:category-ads-all"
+    ],
+    "Process": [],
+    "Enabled": false,
+    "Remarks": "ads"
+  },
+  {
+    "Port": "",
     "OutboundTag": "proxy",
     "Ip": [],
     "Domain": [
