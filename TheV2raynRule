@@ -25,7 +25,6 @@
     "OutboundTag": "direct",
     "Ip": [],
     "Domain": [
-      "geosite:cn",
       "domain:msftconnecttest.com",
       "domain:vx.link",
       "domain:ip.parts",
