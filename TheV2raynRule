@@ -89,7 +89,7 @@
     "Enabled": true
   },
   {
-    "Port": "0-65535",
+    "Network": "tcp,udp",
     "OutboundTag": "proxy",
     "Enabled": true
   }
