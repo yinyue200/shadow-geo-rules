@@ -61,7 +61,8 @@
       "domain:sharepointonline.com",
       "domain:events.data.microsoft.com",
       "full:officeclient.microsoft.com",
-      "domain:edu.cn"
+      "domain:edu.cn",
+      "full:appleid.apple.com"
     ],
     "Enabled": true
   },
