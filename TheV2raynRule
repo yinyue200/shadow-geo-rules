@@ -15,8 +15,7 @@
     "OutboundTag": "proxy",
     "Ip": [],
     "Domain": [
-      "domain:download.visualstudio.mircosoft.com",
-      "domain:googleapis.com"
+      "domain:download.visualstudio.mircosoft.com"
     ],
     "Enabled": true
   },
