@@ -1,3 +1,5 @@
 DOMAIN-SET,https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/google.txt
 RULE-SET,https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/telegramcidr.txt
 DOMAIN-SET,https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt
+DOMAIN-SUFFIX,google.com
+# DOMAIN-SUFFIX,dl.google.com
