@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,google.com,PROXY
 DOMAIN-SET,https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/google.txt,PROXY
 DOMAIN-SET,https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/direct.txt,DIRECT
 # BEGIN ONEDRIVE DOMAIN NOT BE BLOCKED
-DOMAIN-SUFFIX,sharepoint.com,DIRECTß
+DOMAIN-SUFFIX,sharepoint.com,DIRECT
 DOMAIN-SUFFIX,sharepointonline.com,DIRECT
 DOMAIN-SUFFIX,1drv.com,DIRECT
 DOMAIN,api.onedrive.com,DIRECT
